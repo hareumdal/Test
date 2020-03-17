@@ -10,6 +10,7 @@ public class Main {
 		// 2020-03-17 add 수정 김빵
 		int c = a + b;
 		System.out.println(c);
+		System.out.println("성공");
 	}
 
 }
